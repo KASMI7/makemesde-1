@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+html {
+	scroll-behavior: smooth;
+}
+.bg-colour{
+	background-color:#6f3d2b;
+}
+.logo-coffee{
+	color: #f9fbfe;
+	border-style: solid;margin-left: 50px;
+	border-color: #f9fbfe;border-width: 3px;padding: 6px;width: 180px;
+}
+.banner-section-bg-container {
+  background-image: url("https://res.cloudinary.com/dan9pf3bw/image/upload/v1651069738/bg-main_qzdyew.jpg");
+  height: 100vh;
+  background-size: cover;
+}
+.banner-heading {
+		color: #f9fbfe;font-size: 50px;text-align: left;font-family: "Roboto";
+ 
+  font-weight: 300;margin-left: 50px;
+}
+.banner-caption {
+	color: #ffffff;font-size: 25px;text-align: left;font-family: 'Crete Round',Georgia,'Times New Roman',serif;
+    font-style: italic;font-weight: 300;margin-left: 50px;
+}
+.custom-button {
+	font-size: 20px;font-weight: bolder;color: #f9fbfe;margin-left: 50px;
+	width: 160px;border-style: solid;border-color: #f9fbfe;background-color: transparent;border-radius: 3px;border-width: 3px;
+  height: 45px;
+
+ 
+}
+.container-co{
+padding: 60px;
+
+}
+	
+#but-one{
+	color: #f9fbfe;font-size: 18px;
+}
+#but-two{
+	color: #f9fbfe;font-size: 18px;
+}
+#but-three{
+	color: #f9fbfe;font-size: 18px;
+}
+#but-four{
+	color: #f9fbfe;font-size: 18px;
+}
+#but-five{
+	color: #f9fbfe;font-size: 18px;
+}
+#but-six{
+	color: #f9fbfe;font-size: 18px;
+}
+.why-container{
+	background-color: #f9fbfe;
+}
+.brew-container{
+	padding: 10px;margin-top: 10px;
+}
+.brew-birds{
+	height: 380px;width: 470px;margin-top: 20px;
+}
+.brew-heading{
+	color: #61351c;margin-top: 50px;font-size: 30px;
+}
+.brew-press{
+	color: #000;margin-top: 30px;font-size: 26px;
+}
+.brew-paragraph{
+	font-size: 26px;font-family: 'Crete Round',Georgia,'Times New Roman',serif;margin-top: 30px;color: #544c47;
+}
+.wcu-content{
+	background-color:#ffffff;padding: 10px;border-radius: 8px;text-align: center;margin-top: 20px;
+}
+.wcu-review-image{
+	height: 225px;width: 270px;
+}
+.wcu-review-heading{
+	color:#364a1b ;margin-top: 5px;
+}
+.wcu-review-para{
+	font-weight: 500;
+}
+.menu-view{
+	background-color: #f9fbfe;
+}
+.menu-heading{
+	color: #0c3b12;
+}
+.menu-container{
+	background-color:#fff;padding: 8px;border-radius: 8px;text-align: center;margin-top: 10px;
+}
+.menu-images{
+	height: 220px;width: 280px;border-radius: 20px;
+}
+.menu-coffees{
+	font-size: 20px;color:#61351c;
+}
+.menu-drinks{
+	font-size: 20px;color:#1c786e;
+}
+.menu-foods{
+	font-size: 20px;color:#0c3b12;
+}
+.coffee-section{
+	background-color: #f9fbfe;
+}
+.hot-coffee-heading{
+	color:#61351c ;margin-top: 15px;margin-bottom: 20px;
+}
+.coffee-box{
+	background-color: #ffffff;padding: 14px;text-align:center;
+}
+.coffee-images{
+	height: 200px;width: 200px;border-radius: 5px;
+}
+.coffee-styles{
+	color: #451c15;margin-top: 5px;margin-bottom: 5px;font-size: 26px;
+}
+.coffee-fill{
+	font-weight: bolder;color: #1c5e12;
+}
+.all-menu{
+	color:#61351c ;font-size: 20px;text-align: right;margin-top: 10px;margin-bottom: 10px;
+}
+.drinks-heading{
+	color: #074d4f;
+}
+.coffees-styles{
+	margin-top: 5px;margin-bottom: 5px;font-size: 26px;color: #074d4f;
+}
+.food-heading{
+	color: #2c5e31;margin-top: 15px;margin-bottom: 20px;
+}
+.food-styles{
+	margin-top: 5px;margin-bottom: 5px;font-size: 26px;color: #2c5e31;
+}
+.reward-container{
+	background-color: #fff;text-align: center;padding: 30px;margin: 20px;
+}
+.reward-heading{
+	color: #000000DE;font-size: 30px;
+}
+.reward-paragraph{
+	color: #000000DE;font-size: 15px;
+}
+.logo-coffees{
+	color: #61351c;font-size: 20px;
+	border-style: solid;margin: 2px;
+	border-color: #61351c;border-width: 3px;padding: 5px;width: 200px;
+}
+.order-heading{
+	color: #1e3932;margin-top: 30px;margin-bottom: 20px;
+}
+.reward-box{
+	text-align: center;background-color: #fff;padding: 20px;margin: 20px;height: 40vh;margin-top: 20px;
+}
+.reward-image{
+	height: 100px;width: 100px;border-radius: 5px;
+}
+.reward-fun{
+	font-size: 22px;margin-top: 20px;color: #000000DE;
+}
+.reward-para{
+	font-size: 15px;margin-top: 10px;color: #000000DE;font-weight: 400;
+}
+.learn-more{
+	color: #006241;text-decoration: underline;text-decoration-color: #006241;font-size: 16px;
+}
+.delivery-container{
+	background-color: #f2f0ea;margin-top: 20px;padding: 20px;
+}
+.cart-heading{
+	color: #1e3932;font-weight: 400;font-size: 35px;margin-top: 30px;
+}
+.order-heading{
+	margin-bottom: 30px;
+}
+.order-button{
+	height: 50px;width: 25vw;font-weight: 450;font-size: 20px;background-color: #006241;color: #ffffff;border-width: 0px;border-style: none;
+	margin-top: 60px;
+}
+.order-button:hover {
+	filter: drop-shadow(1px 1px);opacity: .5;
+}
+.follow-background{
+	background-color:#ffffff ;text-align: center;
+}
+.sm-container{
+	margin: 20px;background-color: #fff;text-align: center;
+}
+.icon{
+	font-size: 30px;
+}
+.contact-section{
+	padding: 40px;
+}
+.logos-coffee{
+	color: #006241;margin-top: 10px;
+	border-style: solid;
+	border-color: #006241;border-width: 3px;padding: 10px;width: 180px;
+}
+.contact-para{
+	color: #006241;font-size: 13px;
+}
+.list-types{
+	list-style-type: none;cursor: pointer;text-align: left;color: #006241;
+}
+
+#linked-list:hover {
+
+	filter: brightness(1.0);text-decoration-color:#006241 ;text-decoration: underline;list-style-type: none;cursor: pointer;
+}
+.linked-list a{
+	text-decoration: none;color: #006241;
+}
+.last{
+	font-size: 20px;
+}
+
